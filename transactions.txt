@@ -1,0 +1,15 @@
+TransactionID: TXN1001
+AccountID: ACC001
+Type: transfer
+Amount: -300.00
+TargetAccount: ACC002
+Date: 2023-10-05 14:30:00
+Status: completed
+===
+TransactionID: TXN1002
+AccountID: ACC002
+Type: deposit
+Amount: +500.00
+Date: 2023-10-05 15:00:00
+Status: pending
+===

@@ -1,0 +1,14 @@
+UserID: 1001
+Username: MAKE
+Password: 111
+Role: customer
+FullName: MAKE
+Contact: make@email.com
+===
+UserID: 2001
+Username: bob_teller
+Password: teller456
+Role: teller
+FullName: Bob Johnson
+Contact: 555-1234
+===

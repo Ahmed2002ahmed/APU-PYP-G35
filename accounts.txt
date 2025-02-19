@@ -1,0 +1,12 @@
+AccountID: ACC001
+UserID: 1001
+Balance: 5000.00
+OpenDate: 2023-01-15
+Status: active
+===
+AccountID: ACC002
+UserID: 1002
+Balance: 15000.00
+OpenDate: 2023-02-20
+Status: closed
+===
